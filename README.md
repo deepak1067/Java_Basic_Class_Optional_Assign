@@ -9,7 +9,6 @@ A student can or cannot have subjects associated.
 3. print "hello Student" if a room has students associated.
 
 # Note: All the code should be modularized. Methods should return to main.
-
-1 Test coverage must be greater than 90%
-2 Checkstyle, pmd, findbugs warnings must be 0
-3 Document every method.
+1. Test coverage must be greater than 90%.
+2. Checkstyle, pmd, findbugs warnings must be 0.
+3. Document every method.
