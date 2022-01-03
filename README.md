@@ -10,6 +10,6 @@ A student can or cannot have subjects associated.
 
 # Note: All the code should be modularized. Methods should return to main.
 
-• Test coverage must be greater than 90%
-• Checkstyle, pmd, findbugs warnings must be 0
-• Document every method.
+1 Test coverage must be greater than 90%
+2 Checkstyle, pmd, findbugs warnings must be 0
+3 Document every method.
